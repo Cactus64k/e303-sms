@@ -3,7 +3,7 @@ cmake_minimum_required (VERSION 3.0.2)
 include (GNUInstallDirs)
 include (FindPkgConfig)
  
-set (PROJECT modem-sms)
+set (PROJECT e303-sms)
 set (VERSION 1.0.0)
 
 if (NOT DEFINED CMAKE_INSTALL_PREFIX)

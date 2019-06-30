@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 
 	if(argc != 3)
 	{
-		fprintf(stderr, "modem-sms [number] [content] \n");
+		fprintf(stderr, "e303-sms [number] [content] \n");
 		status = EXIT_FAILURE;
 	}
 	else
